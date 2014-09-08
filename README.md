@@ -1,7 +1,7 @@
 QFractalTree
 ============
 
-* press `space` to generate new fractal tree
+* press `space` to generate new fractal tree :palm_tree: :evergreen_tree: :deciduous_tree:
 
 * press `+` or `-` to change saturation and lightness
 
